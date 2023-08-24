@@ -1,5 +1,4 @@
-# I am on the path to becoming a proficient Full Stack Java Engineer.
-
+![banner](https://github.com/LTschapalda/LTschapalda/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leonie-tschapalda-b021a2b7) 
